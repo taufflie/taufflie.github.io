@@ -11,8 +11,3 @@ In the end, I was able to obtain this result. I find it pretty cool.
 
 See you next week.
 
-```tsql
-SELECT *
-FROM sys.tables
-WHERE [name] = 'SomeTable'
-```
