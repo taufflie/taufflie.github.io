@@ -1,4 +1,4 @@
-Discovery of Blender
+## Discovery of Blender
 
 In this first blog, I will be talking the things I learned to do in Blender.
 
@@ -11,4 +11,8 @@ In the end, I was able to obtain this result. I find it pretty cool.
 
 See you next week.
 
-
+```tsql
+SELECT *
+FROM sys.tables
+WHERE [name] = 'SomeTable'
+```
